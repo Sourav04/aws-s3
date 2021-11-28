@@ -6,3 +6,4 @@ variable "bucket_name" {
 variable "env_name" {
   description = "env name"
   type        = string
+}
